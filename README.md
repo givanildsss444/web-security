@@ -12,26 +12,14 @@ Criar uma solução moderna, segura e acessível para que qualquer pessoa possa:
 - Obter os equipamentos necessários.
 - E, principalmente, monitorar tudo pelo próprio celular ou computador, sem depender de terceiros.
 
-## 3. Funcionalidades Principais
-
-- Página institucional com informações da empresa.
-- Catálogo de planos de segurança com valores e benefícios.
-- Sistema de simulação ou contratação online de planos.
-- Painel para o cliente acompanhar:
-  - Equipamentos instalados
-  - Câmeras ao vivo (exemplo fictício)
-  - Status do sistema
-- Formulário de contato para agendamento de instalação.
-- Blog com conteúdos sobre segurança residencial.
-
-## 4. Público-Alvo
+## 3. Público-Alvo
 
 - Donos de casas e apartamentos.
 - Condomínios residenciais.
 - Pequenos comércios que desejam segurança acessível.
 - Pessoas que desejam monitorar suas residências remotamente.
 
-## 5. Tecnologias Utilizadas
+## 4. Tecnologias Utilizadas
 
 - **Next.js** com App Router
 - **Tailwind CSS** para estilização
@@ -41,7 +29,7 @@ Criar uma solução moderna, segura e acessível para que qualquer pessoa possa:
 - **Vercel** para hospedagem e deploy
 - **SEO** configurado para indexação no Google
 
-## 6. Diferenciais
+## 5. Diferenciais
 
 - Interface amigável e responsiva (funciona bem no celular).
 - Integração com CMS para facilitar a atualização dos planos.
@@ -49,7 +37,7 @@ Criar uma solução moderna, segura e acessível para que qualquer pessoa possa:
 - Otimizado para performance e SEO.
 - Permite que o cliente monitore o sistema sozinho, sem precisar de uma central de segurança.
 
-## 7. Conclusão
+## 6. Conclusão
 
 A plataforma será uma solução digital acessível para quem busca autonomia e segurança residencial, com um sistema inteligente de contratação, monitoramento e atualização de planos.  
 O projeto será entregue com base em boas práticas de código, utilizando tecnologias modernas do ecossistema React/Next.js, com versionamento claro e organizado no GitHub.
