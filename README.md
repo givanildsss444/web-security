@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Projeto: Plataforma de Contrato e Monitoramento de Segurança Residencial (HomeSafe)
 
-## Getting Started
+## 1. Descrição Geral
 
-First, run the development server:
+A proposta é o desenvolvimento de um site institucional e funcional voltado para contratação de serviços de segurança residencial. Por meio da plataforma, o usuário poderá contratar planos mensais que incluem equipamentos inteligentes, como câmeras, fechaduras digitais, sensores e trancas automatizadas.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 2. Objetivo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Criar uma solução moderna, segura e acessível para que qualquer pessoa possa:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Contratar serviços de proteção para sua casa.
+- Obter os equipamentos necessários.
+- E, principalmente, monitorar tudo pelo próprio celular ou computador, sem depender de terceiros.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 3. Funcionalidades Principais
 
-## Learn More
+- Página institucional com informações da empresa.
+- Catálogo de planos de segurança com valores e benefícios.
+- Sistema de simulação ou contratação online de planos.
+- Painel para o cliente acompanhar:
+  - Equipamentos instalados
+  - Câmeras ao vivo (exemplo fictício)
+  - Status do sistema
+- Formulário de contato para agendamento de instalação.
+- Blog com conteúdos sobre segurança residencial.
 
-To learn more about Next.js, take a look at the following resources:
+## 4. Público-Alvo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Donos de casas e apartamentos.
+- Condomínios residenciais.
+- Pequenos comércios que desejam segurança acessível.
+- Pessoas que desejam monitorar suas residências remotamente.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 5. Tecnologias Utilizadas
 
-## Deploy on Vercel
+- **Next.js** com App Router
+- **Tailwind CSS** para estilização
+- **Shadcn UI** para componentes modernos e acessíveis
+- **CMS** (Sanity ou Strapi) para gerenciamento de conteúdo
+- **GitHub** para controle de versão
+- **Vercel** para hospedagem e deploy
+- **SEO** configurado para indexação no Google
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 6. Diferenciais
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Interface amigável e responsiva (funciona bem no celular).
+- Integração com CMS para facilitar a atualização dos planos.
+- Componentes modernos e acessíveis (Shadcn + Tailwind).
+- Otimizado para performance e SEO.
+- Permite que o cliente monitore o sistema sozinho, sem precisar de uma central de segurança.
+
+## 7. Conclusão
+
+A plataforma será uma solução digital acessível para quem busca autonomia e segurança residencial, com um sistema inteligente de contratação, monitoramento e atualização de planos.  
+O projeto será entregue com base em boas práticas de código, utilizando tecnologias modernas do ecossistema React/Next.js, com versionamento claro e organizado no GitHub.
